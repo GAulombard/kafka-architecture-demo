@@ -1,0 +1,5 @@
+/.idea/
+/kafka-architecture-demo.iml
+/api-mail-poc/target/
+/api-notification-poc/target/
+/kafka-consumer/target/
